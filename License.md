@@ -1,4 +1,4 @@
-# 📜 Licencia – Just Natsuki (Traducción al Español)
+# 📜 Licencia – Just Natsuki
 
 Just Natsuki es una obra creada por fans y no está afiliada con Team Salvato ni con ningún miembro del equipo de desarrollo de Doki Doki Literature Club (DDLC).
 Todos los personajes, marcas y recursos relacionados con DDLC son propiedad de Team Salvato y se utilizan de acuerdo con sus Directrices de Propiedad Intelectual (IP Guidelines).
