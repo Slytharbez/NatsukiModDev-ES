@@ -1,7 +1,18 @@
 # Just Natsuki
-Este es un proyecto de traducción al español del mod Just Natsuki, un mod estilo After Story para Doki Doki Literature Club (DDLC) que se centra en construir una relación post-juego entre Natsuki y el jugador (¡tú!).
+<img align="right" src="https://just-natsuki-team.github.io/Expression-Previewer/img/branding/jn_1-3-5_logo.png?raw=True" width="450" style="margin-left: 20px;">
+
+Este es un proyecto de traducción no oficial al español del mod Just Natsuki, un mod estilo After Story para Doki Doki Literature Club (DDLC) que se centra en construir una relación post-juego entre Natsuki y el jugador.
 
 **⚠️ Aviso importante: Antes de instalar este mod, lee atentamente este documento y la licencia original de Just Natsuki.**
+
+<br>
+
+### 🎯 Objetivos del Proyecto
+* **Traducción Fiel:** Adaptar los diálogos manteniendo la esencia, el tono y la personalidad única de Natsuki.
+* **Interfaz Completa:** Traducción de menús, botones, poemas y ventanas emergentes del juego.
+* **Compatibilidad:** Garantizar el correcto funcionamiento con la última versión oficial del mod original.
+
+<br>
 
 ## 📖 ¿Qué es Just Natsuki?
 Just Natsuki ocurre después de los eventos de DDLC y DDLC+, y se enfoca en el desarrollo de una relación entre una Natsuki restaurada y el jugador que decidió traerla de vuelta tras su eliminación.\
