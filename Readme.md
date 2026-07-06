@@ -1,16 +1,15 @@
 # Just Natsuki
-<img align="right" src="https://just-natsuki-team.github.io/Expression-Previewer/img/branding/jn_1-3-5_logo.png?raw=True" width="450" style="margin-left: 20px;">
 
 Este es un proyecto de traducción no oficial al español del mod Just Natsuki, un mod estilo After Story para Doki Doki Literature Club (DDLC) que se centra en construir una relación post-juego entre Natsuki y el jugador.
 
 **⚠️ Aviso importante: Antes de instalar este mod, lee atentamente este documento y la licencia original de Just Natsuki.**
 
-<br>
+<img align="right" src="https://just-natsuki-team.github.io/Expression-Previewer/img/branding/jn_1-3-5_logo.png?raw=True" width="550" style="margin-left: 20px;">
 
 ### 🎯 Objetivos del Proyecto
-* **Traducción Fiel:** Adaptar los diálogos manteniendo la esencia, el tono y la personalidad única de Natsuki.
-* **Interfaz Completa:** Traducción de menús, botones, poemas y ventanas emergentes del juego.
-* **Compatibilidad:** Garantizar el correcto funcionamiento con la última versión oficial del mod original.
+* **Traducción Fiel y Natural:** Adaptar todos los diálogos originales manteniendo intacta la esencia, los matices, el tono tsundere y la personalidad única de Natsuki, evitando traducciones literales que rompan la inmersión.
+* **Localización Cultural:** Ajustar modismos y expresiones del inglés a un español neutro y comprensible para toda la comunidad hispanohablante, asegurando que los chistes, juegos de palabras y referencias mantengan su sentido original.
+* **Compatibilidad Absoluta:** Garantizar que los scripts modificados mantengan un funcionamiento óptimo y 100% estable con la última versión oficial lanzada por el equipo original de Just Natsuki, evitando crasheos o corrupción de partidas guardadas.
 
 <br>
 
